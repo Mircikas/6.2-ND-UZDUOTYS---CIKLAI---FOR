@@ -148,7 +148,7 @@
 
 
 // ------ Aštunta užduotis - a - Ciklai -------
-// let nailLenght = 850; // vinies ilgis parasytas CM!!! 
+// let nailLenght = 85; 
 // let hitCount = 0;
 
 
@@ -178,7 +178,7 @@
 
 
     // ------ Aštunta užduotis - b - Ciklai -------
-let nailLenght = 850; // vinies ilgis parasytas CM!!! 
+let nailLenght = 85; 
 let hitCount = 0;
 let hitMiss = 0;
 let goodShot = 0;
